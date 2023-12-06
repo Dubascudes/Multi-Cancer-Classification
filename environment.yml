@@ -1,0 +1,17 @@
+name: cancer-env
+channels:
+    - defaults
+dependencies:
+    - python>=3.9
+    - pip:
+        - kaggle
+        - pandas
+        - scikit-learn
+        - seaborn
+        - matplotlib
+        - opencv-python
+        - tensorflow
+        - numpy
+        - os
+        - argparse
+        - tensorflow
