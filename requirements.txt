@@ -1,0 +1,11 @@
+kaggle
+pandas
+scikit-learn
+seaborn
+matplotlib
+opencv-python
+tensorflow
+numpy
+os
+argparse
+tensorflow
